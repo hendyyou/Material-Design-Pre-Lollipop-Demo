@@ -11,6 +11,8 @@ com.android.support:support-v4:21.+
  <p>
 com.android.support:appcompat-v7:21.+
  <p>
+ "RecyclerView", "CardView", "Palette"使用待续....
+  <p>
 ![image](https://github.com/renpengben/Material-Design-Pre-Lollipop-Demo/blob/master/screen/img1.png)
 
 ![image](https://github.com/renpengben/Material-Design-Pre-Lollipop-Demo/blob/master/screen/img2.png)
