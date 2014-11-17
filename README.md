@@ -8,8 +8,9 @@ Android SDK Version:21(android 4.4.4)
 依赖包：
  <p>
 com.android.support:support-v4:21.+
-  <p>
+ <p>
 com.android.support:appcompat-v7:21.+
+ <p>
 ![image](https://github.com/renpengben/Material-Design-Pre-Lollipop-Demo/blob/master/screen/img1.png)
 
 ![image](https://github.com/renpengben/Material-Design-Pre-Lollipop-Demo/blob/master/screen/img2.png)
