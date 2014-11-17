@@ -1,9 +1,13 @@
 Android LollipopMaterial-Design-Pre-Lollipop-Demo
 =================================
 Android Lollipop之前版本兼容 Material Design
+</br>
 开发工具:Android Studio
+</br>
 Android SDK Version:21(android 4.4.4)
+</br>
 依赖包：
+</br>
 dependencies {
     compile 'com.android.support:support-v4:21.+'
     compile 'com.android.support:appcompat-v7:21.+'
